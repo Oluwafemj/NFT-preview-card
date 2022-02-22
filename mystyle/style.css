@@ -1,0 +1,103 @@
+body{
+    background-color:hsl(217, 54%, 11%);
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    /* font-size: 13px; */
+    color: hsl(0, 0%, 100%);
+}
+
+main{
+    border: 12px strong black;
+    border-radius: 15px;
+    width: 230px;
+    height: 380px;
+    margin: 95px auto;
+    padding: 5px;
+    background-color: hsl(216, 50%, 16%);
+}
+
+img{
+    width: 210px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+p{
+    color: hsl(0, 0%, 100%);
+    font-weight: 600;
+    padding: 0px 10px;
+    margin: 0px;
+}
+
+.softblue{
+    display: inline-block;
+    color: hsl(215, 51%, 70%);
+    font-size: 13px;
+    font-weight: 300;
+    padding: 0px 10px;
+    margin: 10px 0px;
+}
+
+div{
+    display: inline-block;
+    padding: 0px 10px;
+}
+
+.rectangle-img{
+    width: 7px;
+    height: 10px;
+    margin: 0px;
+}
+
+.clockimg{
+    width: 10px;
+    height: 10px;
+    margin: 0px 0px 0px 55px;
+}
+
+.cyan{
+    color: cyan;
+    margin: 0px 2px;
+    font-weight: 700;
+    font-size: 11px;
+}
+
+.blue{
+    color: hsl(215, 51%, 70%);
+    font-size: 11px;
+    font-weight: 300;
+}
+
+.bordertop{
+    border-top: 1px solid hsl(215, 32%, 27%);
+    width: 210px;
+    margin: 10px;
+    padding: 0px;
+}
+
+.rounded-img{
+    width: 20px;
+    height: 20px;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin: 10px 0px;
+}
+
+.container{
+    display: inline-block;
+    top: -17px;
+    position: relative;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    padding: 5px;
+    font-size: 11px;
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
